@@ -6,7 +6,7 @@
 
 
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/?username=HDaghash&show_icons=true" />
+![Metrics](https://metrics.lecoq.io/HDaghash)
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HDaghash&layout=compact&show_icons=true" />
 
